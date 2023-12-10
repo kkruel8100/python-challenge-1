@@ -1,6 +1,6 @@
 ### Welcome to Kim's Virtual Food Truck
 
-where we are 0's and 1's above the competition. Open 7 days a week and 24 hours a day. Accessible at your nearest laptop and internet connection.
+where we are 0's and 1's above the competition. Open 7 days a week and 24 hours a day. Accessible at your nearest laptop.
 
 #### Overview
 
