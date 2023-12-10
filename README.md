@@ -20,7 +20,7 @@ In terminal, type
 
 Step 3:
 
-Order from the exciting menu of the variety food truck and when your order is completed, receive an order receipt and grand total.
+Follow the prompts and order from the variety food truck menu. When your order is completed, you will receive a detailed order receipt and grand total.
 
 #### Resources
 
