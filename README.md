@@ -14,7 +14,8 @@ Clone repository
 
 Step 2:
 
-In terminal,
+In terminal, type
+
 `python menu.py`
 
 Step 3:
@@ -24,7 +25,8 @@ Order from the exciting menu of the variety food truck and when your order is co
 Step 4:
 
 Optional:
-If satisfied, you can contact developer for Zelle information for your mouth watering and filling menu selection. :smile:
+
+If satisfied, you can contact developer for Zelle information for your mouth watering and hearty menu selection. :smile:
 
 #### Resources
 
