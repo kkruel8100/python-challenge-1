@@ -4,7 +4,7 @@ where we are 0's and 1's above the competition. Open 7 days a week and 24 hours 
 
 #### Overview
 
-Showcasing basic python programming skills, Kim's Virtual Food Truck offers a variety of menu options for snacks, meals, drinks, and desserts.
+Showcasing basic Python programming skills, Kim's Virtual Food Truck offers a variety of menu options for snacks, meals, drinks, and desserts.
 
 #### Program
 
